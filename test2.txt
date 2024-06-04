@@ -1,2 +1,3 @@
 This is  another text file.
-But now I changed it.
+Another line has been added now.
+Added another line.
